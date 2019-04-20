@@ -1,3 +1,60 @@
-h1{
-    color:green;
+#body{
+    background-image:url(images/nkar.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+h3{
+    width: 100%;
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+
+p{
+    display: inline-block;
+    font-style: normal;
+}
+#navigation {
+    padding: 20px;
+}
+#navigation img {
+    vertical-align: middle;
+}
+#navigation ul {
+    display: inline-block;
+}
+
+#navigation li {
+    display: inline-block;
+}
+#navigation li a {
+    color:black;
+    margin-right: 20px;
+}
+dd{
+    font-size: 30px;
+}
+a{
+    color: black
+}
+.das{
+    text-align: justify;
+    color: black;
+    width: 480px;
+    background-color: rgb(255, 255, 254);
+}
+.daser{
+    text-align: center;
+    background-color: rgb(172, 168, 167);
+}
+#body a{
+    background-color: white;
+    color: black;
+    display: block;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 0;
+    margin-left:600px ;
 }
